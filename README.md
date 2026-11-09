@@ -2,7 +2,7 @@
 
 Dua kelompok, masing-masing satu HackRF One, saling bertukar teks, stream, dan multimedia dengan modulasi LoRa. Pengiriman dilakukan dari jarak dekat lalu dari ruangan berbeda.
 
-Baca dulu materi pengantar: [`pengantar-lora.html`](pengantar-lora.html).
+Baca dulu materi pengantar: [`pengantar-lora.md`](pengantar-lora.md). Versi interaktifnya ada di `pengantar-lora.html`.
 
 **Setelah praktikum ini kamu dapat:**
 
@@ -352,7 +352,8 @@ Kumpulkan bukti berupa log terminal atau file hasil terima.
 ```text
 .
 ├── README.md            ← panduan ini
-├── pengantar-lora.html  ← materi pengantar
+├── pengantar-lora.md    ← materi pengantar
+├── pengantar-lora.html  ← materi pengantar versi interaktif
 └── lora_lab.py          ← modem dan alat praktikum
 ```
 
